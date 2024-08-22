@@ -3,7 +3,7 @@
     "description": "Faker Provider for TailwindCSS Colors",
     "type": "library",
     "require": {
-        "fakerphp/faker": "1.15.0",
+        "fakerphp/faker": "^1.15.0",
         "jdenoc/tailwind-colors": "^0.0.2"
     },
     "license": "MIT",
