@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "fakerphp/faker": "^1.15.0",
-        "jdenoc/tailwind-colors": "^0.0.2"
+        "jdenoc/tailwind-colors": "^0.1.0"
     },
     "license": "MIT",
     "autoload": {
